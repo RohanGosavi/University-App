@@ -1,4 +1,4 @@
-# bottom_navigation_demo
+# University App
 
 A new Flutter application.
 
